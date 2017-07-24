@@ -188,7 +188,34 @@ figure{
 }
 
 @media screen and (max-width: 768px){
-
+	.link-1{
+		margin-left: 140px;
+	}
+	.divider-1{
+		width: 600px;
+	}
+	.main_content{
+		height: 900px;
+	}
+	section{
+		margin-left: 10px;
+		width: 650px;
+		height: 590px;
+	}
+	.name{
+		margin-left: 10px
+	}
+	aside{
+		margin-left: 10px;
+		width: 650px;
+	}
+	.contact_me{
+		text-align: left;
+		margin-left: 10px;
+	}
+	.divider-2{
+		width: 600px;
+	}
 }
 
 @media screen and (max-width: 640px){
